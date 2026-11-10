@@ -1,2 +1,2 @@
 # pieui
-TypeScript Pie Menu Web Component
+TypeScript Pie Menu Web Component, by Don Hopkins.
